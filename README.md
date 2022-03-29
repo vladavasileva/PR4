@@ -11,3 +11,11 @@
 - Розробити клас для тестування основної функціональності.
 - Використати коментарі для автоматичної генерації документації засобами javadoc.
 ### Скріншоти виконаної роботи
+
+![image](https://user-images.githubusercontent.com/91936629/160679297-3e040e4d-7b95-4328-abe1-84c18dcce7ee.png)
+
+![image](https://user-images.githubusercontent.com/91936629/160679255-4bbaa785-7406-4243-9ac7-0fdb739d2e55.png)
+
+![image](https://user-images.githubusercontent.com/91936629/160679350-2774184a-ca02-4ef8-bef4-a53b513493c0.png)
+
+
